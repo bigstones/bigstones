@@ -1,25 +1,27 @@
 ### 김태석 입니다! 👋
 
 
-스킬
-
-<center></center>
+<center>스킬</center>
 
 
-
-프로젝트
-
-
-경력
+<center>python java html css javascript typescript react</center>
 
 
-교육
 
 
-연락처
+<center>프로젝트</center>
+
+<center>공공데이터이용한 상권예측</center>
 
 
-포트폴리오
+
+<center>연락처</center>
+
+<center>rlaxotjr19@gmail.com</center>
+
+
+
+<center>포트폴리오</center>
 
 
 
