@@ -4,6 +4,8 @@
 * 스킬
 
 
+
+
 	python
 	java
 	html
@@ -11,11 +13,12 @@
 	javascript
 	typescript
 	react
-<center></center>
 
 
 
 * 프로젝트
+
+
 
 
 	[공공데이터이용한 상권예측]
