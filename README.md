@@ -4,11 +4,11 @@
 * 스킬
 	- python
 	- java
-	- html
-	- css
 	- javascript
 	- typescript
 	- react
+	- html
+	- css
 
 
 
