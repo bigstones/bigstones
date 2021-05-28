@@ -24,7 +24,8 @@
 rlaxotjr19@gmail.com
 
 
-포트폴리오
+미니프로젝트
+[자기소개](https://tskim1.netlify.app/)
 
 
 
