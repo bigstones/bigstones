@@ -39,7 +39,11 @@ rlaxotjr19@gmail.com
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 pythonanywhere
 
-
+<!--
+<a href="링크걸_주소"><img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp
+-> 배지는 https://shields.io/
+-> 아이콘은 https://simpleicons.org/
+-->
 
 
 <!--
