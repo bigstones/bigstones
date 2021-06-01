@@ -24,18 +24,6 @@
 </p>
 </p>
 
-	- python
-	- java
-	- typescript
-	- css
-	- html
-	- flutter
-	- react
-	- django
-	- netlify
-	- heroku
-
-
 
 
 
