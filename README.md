@@ -2,13 +2,29 @@
 
 
 * 스킬
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Netlyfy-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
+
+
 	- python
 	- java
 	- javascript
 	- typescript
-	- react
-	- html
 	- css
+	- html
+	- 
+	- react
+
+
 
 
 
