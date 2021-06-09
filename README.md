@@ -10,18 +10,17 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
 <br>
 
-
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;
 <br>
-
 
 <img src="https://img.shields.io/badge/Netlyfy-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp;
 <br>
 
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/FastAPI-FF282D?style=flat-square&logo=FastAPI&logoColor=white"/></a>&nbsp;
+<br>
 
 
 
