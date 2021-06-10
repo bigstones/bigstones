@@ -39,7 +39,7 @@ rlaxotjr19@gmail.com
 
 미니프로젝트
 
-[공공데이터이용한 상권예측]
+[공공데이터이용한 상권예측](https://github.com/bigstones/trade_hub)
 
 [자기소개](https://tskim1.netlify.app/)
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
