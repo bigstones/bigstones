@@ -1,7 +1,7 @@
 ### 김태석 입니다! 👋
 
 
-* 스킬
+# 스킬
 
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
@@ -31,17 +31,17 @@
 
 
 
-* 프로젝트
+# 프로젝트
 
-	- 중소기업 스마트 서비스 지원사업
+- 중소기업 스마트 서비스 지원사업
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/FastAPI-FF282D?style=flat-square&logo=FastAPI&logoColor=white"/>&nbsp;
-		- 객체 탐지 기술을 응용한 수선품 이미지 DB 구축 및 이를 활용한 수선 상담 및 수선 작업 프로세스 개선
-			- 우수 사례선정
+	- 객체 탐지 기술을 응용한 수선품 이미지 DB 구축 및 이를 활용한 수선 상담 및 수선 작업 프로세스 개선
+		- 우수 사례선정
 
 
 
@@ -49,10 +49,10 @@
 
 연락처
 
-rlaxotjr19@gmail.com
+[mail](rlaxotjr19@gmail.com)
 
 
-미니프로젝트
+# 미니프로젝트
 
 [공공데이터이용한 상권분석](https://github.com/bigstones/trade_hub)
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
