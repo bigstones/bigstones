@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
 <br>
 
-<img src="https://img.shields.io/badge/Netlyfy-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>&nbsp;
 [pythonanywhere](https://www.pythonanywhere.com/)
 <br>
