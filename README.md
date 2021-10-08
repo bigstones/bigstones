@@ -60,7 +60,7 @@
 
 연락처
 
-[mail](rlaxotjr19@gmail.com)
+mail : <rlaxotjr19@gmail.com>
 
 
 # 미니프로젝트
