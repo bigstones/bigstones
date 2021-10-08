@@ -51,8 +51,9 @@
 - AI 운영시스템
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/FastAPI-FF282D?style=flat-square&logo=FastAPI&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Kafka&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;
 
 
 
