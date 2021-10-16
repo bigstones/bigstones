@@ -83,8 +83,6 @@ mail : <rlaxotjr19@gmail.com>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=![PA-logo-large-icononly](https://user-images.githubusercontent.com/71265839/137587381-080ccac2-5453-4d00-8979-0a76d129bdc5.png)
-&logoColor=white"/>
 [pythonanywhere](https://www.pythonanywhere.com/)
 
 
