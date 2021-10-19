@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/FastAPI-FF282D?style=flat-square&logo=FastAPI&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
 	- 객체 탐지 기술을 응용한 수선품 이미지 DB 구축 및 이를 활용한 수선 상담 및 수선 작업 프로세스 개선
 		- 중소벤처기업부 우수 사례선정
 
@@ -55,8 +56,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>&nbsp;
-
-
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
 
 
 연락처
