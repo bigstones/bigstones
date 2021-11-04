@@ -90,7 +90,9 @@ mail : <rlaxotjr19@gmail.com>
 # 자격증
 
 빅데이터분석기사
+
 ADsP
+
 SQLD
 
 
