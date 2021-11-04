@@ -87,6 +87,12 @@ mail : <rlaxotjr19@gmail.com>
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
 [pythonanywhere](https://www.pythonanywhere.com/)
 
+# 자격증
+
+빅데이터분석기사
+ADsP
+SQLD
+
 
 <!--
 <a href="링크걸_주소"><img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp;
