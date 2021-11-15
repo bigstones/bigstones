@@ -82,6 +82,16 @@
 mail : <rlaxotjr19@gmail.com>
 
 
+# 자격증
+
+빅데이터분석기사
+
+ADsP
+
+SQLD
+
+
+
 # 미니프로젝트
 
 [공공데이터이용한 상권분석](https://github.com/bigstones/trade_hub)
@@ -105,14 +115,6 @@ mail : <rlaxotjr19@gmail.com>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>&nbsp;
 <!-- [pythonanywhere](https://www.pythonanywhere.com/) -->
-
-# 자격증
-
-빅데이터분석기사
-
-ADsP
-
-SQLD
 
 
 <!--
