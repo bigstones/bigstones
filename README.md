@@ -56,6 +56,9 @@
     - 객체 탐지 기술을 응용한 수선품 이미지 DB 구축 및 이를 활용한 수선 상담 및 수선 작업 프로세스 개선
     - 중소벤처기업부 우수 사례선정
 
+    백엔드 개발, 프론트엔드 개발
+
+
 - AI 운영시스템
 
 
@@ -70,6 +73,9 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/>&nbsp;
 
+    백엔드 개발
+    머신러닝 알고리즘 정합성 체크
+    데이터 정합성 체크
 
 연락처
 
