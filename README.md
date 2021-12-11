@@ -39,7 +39,7 @@
 
 # 프로젝트
 
-- 중소기업 스마트 서비스 지원사업
+- [Luxclinic]중소기업 스마트 서비스 지원사업
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
@@ -61,7 +61,7 @@
     Kibana
     카카오 알림톡 적용 
 
-- AI 운영시스템
+- [LG화학]AI 운영시스템(AI-LinkOn)
 
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;
@@ -78,10 +78,10 @@
     백엔드 개발
     머신러닝 알고리즘 정합성 체크
     데이터 정합성 체크
-    아테나 테이블 생성
-    S3 버킷 관리
-    Kafka Topic 생성
-    Redis User 관리
+    AWS Athena 테이블 생성
+    S3에 데이터 적재
+    Kafka 토픽, 유저그룹 관리
+    Redis 데이터 적재 및 조회
     
 
 연락처
