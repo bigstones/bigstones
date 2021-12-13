@@ -75,6 +75,8 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/>&nbsp;
 
+    - 9개 공장에서 들어오는 데이터를 정제하여 23개 모델 실시간 추론
+
     백엔드 개발
     머신러닝 알고리즘 정합성 체크
     데이터 정합성 체크
