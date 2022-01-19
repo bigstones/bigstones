@@ -124,7 +124,7 @@ SQLD
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>&nbsp;
-<!-- [pythonanywhere](https://www.pythonanywhere.com/) -->
+[pythonanywhere](https://www.pythonanywhere.com/)
 
 
 <!--
