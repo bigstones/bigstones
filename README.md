@@ -57,8 +57,7 @@
     - 중소벤처기업부 우수 사례선정
 
     백엔드 개발, 프론트엔드 개발
-    ElasticSearch 
-    Kibana
+    ElasticSearch Template 설정
     카카오 알림톡 적용 
 
 - [LG화학]AI 운영시스템(AI-LinkOn)
@@ -83,7 +82,7 @@
     AWS Athena 테이블 생성
     S3에 데이터 적재
     Kafka 토픽, 유저그룹 관리
-    Redis 데이터 적재 및 조회
+    Redis 데이터 적재, 조회 및 삭제
 
     
 
