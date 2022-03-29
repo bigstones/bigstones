@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>&nbsp;
 
-<!-- 
+ 
 ### 서브
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>&nbsp;
--->
+
 
 <!--
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
@@ -85,7 +85,6 @@
     S3에 데이터 적재
     Kafka 토픽, 유저그룹 관리
     Redis 데이터 적재, 조회 및 삭제
-
     
 
 연락처
