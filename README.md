@@ -58,7 +58,7 @@
 
     백엔드 개발, 프론트엔드 개발
     ElasticSearch Template 설정
-    ElasticSearch 주기적 DB backup 개발
+    ElasticSearch DB backup batch 개발
     Kibana 이용하여 데이터 조회
     카카오 알림톡 전송 개발
 
