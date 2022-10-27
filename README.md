@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Apache_Airflow-DC382D?style=flat-square&logo=airflow&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Apache_Airflow-DC382D?style=flat-square&logo=apacheairflow<&logoColor=white"/>&nbsp;
 
 
 
