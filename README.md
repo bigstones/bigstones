@@ -92,6 +92,16 @@
     Kafka 토픽, 유저그룹 관리
     Redis 데이터 적재, 조회 및 삭제
     
+- [로민]OCR 데이터 마이그레이션
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>&nbsp;
+
+    백엔드 개발
+    데이터 파이프라인 설계
+    데이터 정합성 체크
+    AWS S3에 데이터 적재
+    적재 데이터 구조 설계
 
 연락처
 
