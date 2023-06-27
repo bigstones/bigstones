@@ -1,6 +1,5 @@
 ### 김태석 입니다! 👋
 
-
 # 스킬
 
 ### 주
@@ -95,8 +94,12 @@
     
 - [로민]OCR 데이터 마이그레이션
 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&amp;logo=apache-airflow&amp;logoColor=white"/>&nbsp;
+
 
     백엔드 개발
     데이터 파이프라인 설계
