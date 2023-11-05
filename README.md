@@ -120,6 +120,8 @@ mail : <rlaxotjr19@gmail.com>
 
 빅데이터분석기사
 
+정보처리기사
+
 ADsP
 
 SQLD
