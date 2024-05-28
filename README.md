@@ -6,14 +6,15 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>&nbsp;
-
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=Linux&amp;logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>&nbsp;
  
 ### 서브
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=Linux&amp;logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&amp;logo=googlecloud&amp;logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=TypeScript&amp;logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=Kubernetes&amp;logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white"/>&nbsp;
