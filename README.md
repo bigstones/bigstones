@@ -133,8 +133,8 @@ SQLD
 
 
 
-# 미니프로젝트
 <!-- 
+# 미니프로젝트
 [공공데이터이용한 상권분석](https://github.com/bigstones/trade_hub)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
