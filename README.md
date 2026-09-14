@@ -33,9 +33,13 @@ Kafka · Airflow · ClickHouse 기반의 **데이터 파이프라인 / DataOps**
 
 ---
 
-## 💼 Projects
+## 💼 Experience
 
-### 🔍 [로민] OCR DataOps 플랫폼
+### 🏢 로민
+<!-- TODO: 직무 · 재직 기간 (예: 데이터 엔지니어 · 2024.01 ~ 2025.06) -->
+
+#### 🔍 OCR DataOps 플랫폼
+*사내 프로젝트*
 > OCR 모델 학습 데이터의 수집 · 라벨링 · 적재 전 과정을 관리하는 DataOps 시스템
 
 `Airflow` `ClickHouse` `MinIO` `Prometheus` `Grafana` `Django` `FastAPI`
@@ -46,7 +50,11 @@ Kafka · Airflow · ClickHouse 기반의 **데이터 파이프라인 / DataOps**
 - 데이터 정합성 검증 로직 설계
 <!-- TODO: 기간 / 성과 수치 (예: 처리 데이터량, 작업 시간 단축률) -->
 
-### 🧪 [LG화학] AI 운영 시스템 (AI-LinkOn)
+### 🏢 누리꿈소프트
+<!-- TODO: 직무 · 재직 기간 -->
+
+#### 🧪 AI 운영 시스템 (AI-LinkOn)
+*고객사: LG화학*
 > 머신러닝 모델의 운영을 지원하는 AI 서비스 백엔드
 
 `FastAPI` `Celery` `Kafka` `Redis` `PostgreSQL` `AWS`
@@ -57,7 +65,8 @@ Kafka · Airflow · ClickHouse 기반의 **데이터 파이프라인 / DataOps**
 - 머신러닝 알고리즘 결과 및 데이터 정합성 검증
 <!-- TODO: 기간 / 성과 수치 -->
 
-### 🧵 [Luxclinic] 수선 상담 스마트 서비스
+#### 🧵 수선 상담 스마트 서비스
+*고객사: Luxclinic*
 > 객체 탐지 기반 수선품 이미지 DB로 수선 상담 · 작업 프로세스 개선
 > 🏆 **중소벤처기업부 스마트서비스 지원사업 우수사례 선정**
 
