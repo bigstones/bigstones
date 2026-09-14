@@ -22,20 +22,24 @@ AI가 실제 기업 환경에서 **안정적으로 운영되는 시스템**을 �
 ## 🧭 Career
 
 ```mermaid
+%%{init: {"themeCSS": ".tick text{font-size:14px;} .taskTextOutsideRight,.taskTextOutsideLeft{fill:#888;font-size:15px;}", "gantt": {"useWidth": 720, "barHeight": 34, "barGap": 6, "topPadding": 40, "leftPadding": 110, "rightPadding": 90, "gridLineStartPadding": 30, "fontSize": 16, "sectionFontSize": 16, "numberSectionStyles": 3}}}%%
 gantt
     dateFormat YYYY-MM
     axisFormat %Y
+    todayMarker off
     section 누리꿈소프트
-    Data Engineering · Backend    :done, 2020-12, 2022-08
+    Data Eng · Backend  :done, 2020-12, 2022-08
     section 로민
-    AI 학습 데이터 플랫폼          :done, 2022-08, 2025-10
+    AI 데이터 플랫폼     :done, 2022-08, 2025-10
     section 플로터랩
-    Document AI · GPU Serving     :active, 2025-10, 2026-09
+    Doc AI              :active, 2025-10, 2026-12
 ```
 
 ```mermaid
 flowchart LR
     A["🛠 Data Engineering<br/>Kafka · Redis · Hadoop"] --> B["🗂 Data Platform<br/>Labeling · Versioning · Eval"] --> C["🧠 Document AI<br/>OCR · VLM · Serving"]
+    C ~~~ PAD[" "]
+    style PAD fill:none,stroke:none
 ```
 
 ---
